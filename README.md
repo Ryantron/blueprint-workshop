@@ -1,2 +1,2 @@
-# blueprint-workshop
-Git practice.
+# Blueprint
+## Practice with Git and Github
